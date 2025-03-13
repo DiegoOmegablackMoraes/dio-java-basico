@@ -1,5 +1,3 @@
-# dio-java-basico
-## Bootcampo DIO - Bradesco Java Cloud
-
-
-Primeira parte: Java Básico
+# Bootcampo DIO - Bradesco Java Cloud
+## Parte 01: Java Básico
+### Projeto: dio-java-basico
